@@ -37,6 +37,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Banca.cs" />
+    <Compile Include="Card.cs" />
+    <Compile Include="ContBancar.cs" />
+    <Compile Include="POS.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
